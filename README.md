@@ -1,0 +1,2 @@
+# pricescraper
+Amazon product scraper
